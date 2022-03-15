@@ -5,6 +5,7 @@ import java.util.*;
 public class Test01 {
     public static void main(String[] args) {
         System.out.println("helloworld");
+        System.out.println(123);
     }
 
     public static List<String> letterCombinations(String digits) {
